@@ -1,6 +1,15 @@
 # YouPla
 Discord.js Server Bump Bot (V12) / Server Advertise Bot
 
+### 👻 Invitation du bot et support
+
+- [Si vous galeré avec le bot](https://discord.com/invite/TjSDZmVWvs) -Developpeur
+
+- [Invitation du bot](https://discord.com/oauth2/authorize?client_id=811630892212420618&permissions=8&scope=bot) -Developpeur
+
+- [Support du bot](https://discord.gg/xgvxGQfmEU) -Developpeur
+
+
 ### ✨ Installation
 ```npm i discord.js parse-ms sequelize sqlite3```
 
