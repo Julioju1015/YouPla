@@ -1,0 +1,26 @@
+{
+  "name": "youpla",
+  "version": "1.0.5",
+  "description": "Bot discord YouPla de BUMP",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "parse-ms": "^2.1.0",
+    "sequelize": "^6.5.0",
+    "sqlite3": "^5.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "%bump"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Julioju1015/YouPla.git"
+  },
+  "author": "Julioju",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Julioju1015/YouPla/issues"
+  },
+  "homepage": "https://github.com/Julioju1015/YouPla#readme"
+}
