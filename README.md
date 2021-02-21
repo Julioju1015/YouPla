@@ -32,7 +32,7 @@ Julioju   >>>  bumped!
 
 ![Bump Cmd](https://github.com/Julioju1015/YouPla/blob/master/img/bump.PNG)
 
-![Bump Message](https://github.com/Julioju1015/YouPla/blob/master/img/bumpmessage.PNG)
+![Bump Message](https://github.com/Julioju1015/YouPla/blob/master/img/bumpmessage.PNG)  
 
 ![Help Cmd](https://github.com/Julioju1015/YouPla/blob/master/img/help.PNG)
 
