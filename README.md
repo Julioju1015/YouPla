@@ -17,7 +17,7 @@ Discord.js Server Bump Bot (V12) / Server Advertise Bot
 ```node index.js```
 
 ### 🍂 Dependencies
-* discord.js
+* discord.js 
 * parse-ms
 * sequelize
 * sqlite3
