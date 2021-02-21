@@ -21,13 +21,15 @@ Discord.js Server Bump Bot (V12) / Server Advertise Bot
 Julioju   >>>  bumped!
 ```
 
-![Bump Message](https://github.com/Julioju1015/YouPla/blob/master/img/bump.PNG)
+![Bump Cmd](https://github.com/Julioju1015/YouPla/blob/master/img/bump.PNG)
 
-![Help Cmd]()
+![Bump Message](https://github.com/Julioju1015/YouPla/blob/master/img/bumpmessage.PNG)
 
-![Set Your Add]()
+![Help Cmd](https://github.com/Julioju1015/YouPla/blob/master/img/help.PNG)
 
-![Check Your Add]()
+![Set Your Add](https://github.com/Julioju1015/YouPla/blob/master/img/color.PNG)
+
+![Check Your Add](https://github.com/Julioju1015/YouPla/blob/master/img/prev.PNG)
 
 
 ## ✍️ | Auteur <a name = "authors"></a>
